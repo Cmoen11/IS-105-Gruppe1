@@ -1,6 +1,6 @@
 # is105-uke04
 <br>
-<br>git clone <url til repository>     // clone et repository fra github f.eks.
+<br><b>git clone </b><url til repository>     // clone et repository fra github f.eks.
 <br>git status				  // vil gi en oversikt over endrede filer
 <br>git add <filename> 		  // vil legge til filen til stage for commit
 <br>git add . 				  // vil legge til alle filer som er endret til stage for commit
