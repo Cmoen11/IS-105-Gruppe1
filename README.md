@@ -16,6 +16,9 @@
 <br> <i> git commit -m "kommentar"</i> : Commit filen med kommentar
 <br> <i> git push origin Erlend </i> : Laster opp branchen Erlend til Repoen vår.
 <br>
+<br> For å oppdatere lokale filer, kan <i> git pull origin BRANCH-NAVN </i> brukes.
+<br>
+<br> <b> Nyttige kommandoer: </b>
 <br><b>git clone "url til repository"     </b>// clone et repository fra github f.eks.
 <br><b>git status</b>				  // vil gi en oversikt over endrede filer
 <br><b>git add "filename" 		  </b>// vil legge til filen til stage for commit
