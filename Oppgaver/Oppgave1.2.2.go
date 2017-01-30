@@ -29,9 +29,9 @@ func main() {
 	fmt.Println("Oskar sin informasjon i bits Log2(8/3) =", Oskar, "bit. Per har like mye informasjon som Lise og har 2 bit igjen å gjette.");
 	fmt.Println("");
 	
-	fmt.Println("4) Louise har fått vite alt Lise,Per og Oskar vet. log2(Lise) + log2(Per) + log2(Oskar)");
+	fmt.Println("4) Louise har fått vite alt Lise,Per og Oskar vet = log2(8/1)");
 	//var Louise = Lise + Per + Oskar;
 	var Louise = math.Log2(8/1)
-	fmt.Println("Louse sin informasjon i bits", Louise, ", så han har 1 bit å gjette ut av 2 muligheter." );
+	fmt.Println("Louse sin informasjon i bits", Louise, ". Louise har 3Bits informasjon og 1 mulig valg" );
 
 }
