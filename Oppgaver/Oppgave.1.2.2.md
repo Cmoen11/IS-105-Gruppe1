@@ -158,4 +158,4 @@
 <p>1 ) Lise vet at tallet er odetall, N=8/4<br />Lise sin informasjon i bits Log2(8/4) = 1 bit. S&aring; Lise har 2 bit igjen &aring; gjette.</p>
 <p>2) Per vet at tallet ikke er multiplum av 3, og st&aring;r igjen med 5 tall. N=8/5<br />Per sin informasjon i bits Log2(8/5) = 0 bit. Per f&aring;r under 1 bit informasjon &aring; m&aring; gjette 3 bits ut av 5 mulige valg.</p>
 <p>3) Oskar vet at tallet inneholder n&oslash;yaktig 2enere som gir 3 muligheter. N=8/3<br />Oskar sin informasjon i bits Log2(8/3) = 1 bit. Per har like mye informasjon som Lise og har 2 bit igjen &aring; gjette.</p>
-<p>4) Louise har f&aring;tt vite alt Lise,Per og Oskar vet. log2(Lise) + log2(Per) + log2(Oskar)<br />Louse sin informasjon i bits 2 , s&aring; han har 1 bit &aring; gjette ut av 2 muligheter.</p>
+<p>4) Louise har f&aring;tt vite alt Lise,Per og Oskar vet. <br />Louse sin informasjon i bits 3 .</p>

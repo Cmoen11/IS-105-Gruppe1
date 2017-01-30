@@ -30,8 +30,8 @@ func main() {
 	fmt.Println("");
 	
 	fmt.Println("4) Louise har fått vite alt Lise,Per og Oskar vet. log2(Lise) + log2(Per) + log2(Oskar)");
-	var Louise = Lise + Per + Oskar;
-	// var Louise = math.Log2(8/1)
-	fmt.Println("Louse sin informasjon i bits", Louise, ", så han har 1 bit å gjette ut av 2 muligheter.");
+	//var Louise = Lise + Per + Oskar;
+	var Louise = math.Log2(8/1)
+	fmt.Println("Louse sin informasjon i bits", Louise, ", så han har 1 bit å gjette ut av 2 muligheter." );
 
 }
