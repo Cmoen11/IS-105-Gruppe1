@@ -24,14 +24,14 @@ func main() {
 	fmt.Println("Per sin informasjon i bits Log2(8/5) = ", Per, "bit. Per får under 1 bit informasjon å må gjette 3 bits ut av 5 mulige valg.");
 	fmt.Println("");
 	
-	fmt.Println("3) Oskar vet at tallet inneholder 2enere som gir 4 muligheter. N=8/4");
-	var Oskar = math.Log2(8/4);
-	fmt.Println("Oskar sin informasjon i bits Log2(8/4) =", Oskar, "bit. Per har like mye informasjon som Lise og har 2 bit igjen å gjette.");
+	fmt.Println("3) Oskar vet at tallet inneholder nøyaktig 2enere som gir 3 muligheter. N=8/3");
+	var Oskar = math.Log2(8/3);
+	fmt.Println("Oskar sin informasjon i bits Log2(8/3) =", Oskar, "bit. Per har like mye informasjon som Lise og har 2 bit igjen å gjette.");
 	fmt.Println("");
 	
 	fmt.Println("4) Louise har fått vite alt Lise,Per og Oskar vet. log2(Lise) + log2(Per) + log2(Oskar)");
 	var Louise = Lise + Per + Oskar;
-	// var Louise = math.Log2(8/2)
+	// var Louise = math.Log2(8/1)
 	fmt.Println("Louse sin informasjon i bits", Louise, ", så han har 1 bit å gjette ut av 2 muligheter.");
 
 }

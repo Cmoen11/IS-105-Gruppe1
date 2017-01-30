@@ -83,7 +83,7 @@
 </tr>
 </tbody>
 </table>
-<p><strong>3.</strong>&nbsp; Oskar har f&aring;tt vite at tallet inneholder n&oslash;yaktig 2 enere som er tallene 3,6,7<strong><br /></strong></p>
+<p><strong>3.</strong>&nbsp; Oskar har f&aring;tt vite at tallet inneholder n&oslash;yaktig 2 enere som er tallene 3,5,6<strong><br /></strong></p>
 <table style="height: 154px;" border="1" width="251">
 <tbody>
 <tr>
@@ -91,22 +91,18 @@
 <td style="text-align: center;">3</td>
 </tr>
 <tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">101</td>
+<td style="text-align: center;">5</td>
 </tr>
 <tr>
 <td style="text-align: center;">110</td>
 <td style="text-align: center;">6</td>
 </tr>
-<tr>
-<td style="text-align: center;">111</td>
-<td style="text-align: center;">7</td>
-</tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
 <p><strong>(4) </strong>Louise har f&aring;tt vite alt det Lise, Per og Oskar vet.&nbsp;</p>
-<p>S&aring; Louise vet at tallet er 7 , bin&aelig;rtall 111<br /> <em><em>(Hvis vi ikke regner med Oscar sitt tall 101 som ogs&aring; har to enere og blir 5.) <br /></em></em></p>
+<p>S&aring; Louise vet at tallet er 5 , bin&aelig;rtall 101 </p>
 <table style="height: 173px;" border="1" width="303">
 <tbody>
 <tr>
@@ -142,7 +138,7 @@
 <tr>
 <td>&nbsp;5</td>
 <td>5</td>
-<td>&nbsp;</td>
+<td>5</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -152,7 +148,7 @@
 <tr>
 <td>&nbsp;7</td>
 <td>7</td>
-<td>7</td>
+<td>&nbsp;</td>
 </tr>
 </tbody>
 </table>
@@ -161,5 +157,5 @@
 <p>Det er totalt 8 muligheter med 3 sifret bin&aelig;re tall: N=8 som gir Log2(8) = 3 bit<br />Formel brukt i oppgave: log2(8/mulige valg)</p>
 <p>1 ) Lise vet at tallet er odetall, N=8/4<br />Lise sin informasjon i bits Log2(8/4) = 1 bit. S&aring; Lise har 2 bit igjen &aring; gjette.</p>
 <p>2) Per vet at tallet ikke er multiplum av 3, og st&aring;r igjen med 5 tall. N=8/5<br />Per sin informasjon i bits Log2(8/5) = 0 bit. Per f&aring;r under 1 bit informasjon &aring; m&aring; gjette 3 bits ut av 5 mulige valg.</p>
-<p>3) Oskar vet at tallet inneholder 2enere som gir 4 muligheter. N=8/4<br />Oskar sin informasjon i bits Log2(8/4) = 1 bit. Per har like mye informasjon som Lise og har 2 bit igjen &aring; gjette.</p>
+<p>3) Oskar vet at tallet inneholder n&oslash;yaktig 2enere som gir 3 muligheter. N=8/3<br />Oskar sin informasjon i bits Log2(8/3) = 1 bit. Per har like mye informasjon som Lise og har 2 bit igjen &aring; gjette.</p>
 <p>4) Louise har f&aring;tt vite alt Lise,Per og Oskar vet. log2(Lise) + log2(Per) + log2(Oskar)<br />Louse sin informasjon i bits 2 , s&aring; han har 1 bit &aring; gjette ut av 2 muligheter.</p>
