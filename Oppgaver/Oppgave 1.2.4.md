@@ -12,8 +12,8 @@
 <p>&nbsp;</p>
 <p><strong style="font-weight: bold;">4) Hvilke viktige poeng illustrerer denne &oslash;velsen n&aring;r det gjelder bruk av et programmeringsmilj&oslash; p&aring; en platform?<br /><br /></strong>Poenget denne &oslash;velsen illustrerer er siden jeg bygger filen p&aring; Windows, s&aring; f&aring;r jeg en kj&oslash;rbar exe fil.</p>
 <p>Med GoLang kan man ogs&aring; "cross compile" ved &aring; sette "GOOS" og "GOARCH" til verdiene for operativsystems arkitekturen programmet skal kj&oslash;re p&aring;. Dermed "go build -v pakke"&nbsp;</p>
-<p>I motsetning til Java, m&aring; vi i dette tilfellet kj&oslash;re begge filene: "go run main.go&nbsp; log.go" , s&aring; velger den main metoden fra main.go for &aring; kj&oslash;re.<br />For mer info se: <a href="https://dave.cheney.net/2015/08/22/cross-compilation-with-go-1-5">https://dave.cheney.net/2015/08/22/cross-compilation-with-go-1-5</a></p>
-<p>Skal man kun kj&oslash;re bare "main.go" (go run main.go) m&aring; filen Log importeres ved &aring; legges i en subfolder.</p>
+<p>I motsetning til Java, m&aring; vi i dette tilfellet kj&oslash;re begge filene: "go run main.go&nbsp; log.go" , s&aring; velger den main metoden fra main.go for &aring; kj&oslash;re, uten &aring; endre "%GOPATH%"<br />For mer info se: <a href="https://dave.cheney.net/2015/08/22/cross-compilation-with-go-1-5">https://dave.cheney.net/2015/08/22/cross-compilation-with-go-1-5</a></p>
+<p>Skal man kun kj&oslash;re bare "main.go" (go run main.go) m&aring; filen Log importeres ved &aring; legges i en subfolder dersom vi ikke endrer "%GOPATH%"</p>
 <p><br />NB! Om man pr&oslash;ver &aring; importere en mappe der main filen allerede er f&aring;r man error, import "../GoLang":<br />"main.go:5:2: found packages log (log.go) and main (main.go) "</p>
 <p>For mer utfyllende info se: <a href="http://gowithconfidence-blog.tumblr.com/post/118493925546/getting-started-with-go-workspaces">http://gowithconfidence-blog.tumblr.com/post/118493925546/getting-started-with-go-workspaces</a></p>
 <p>&nbsp;</p>
