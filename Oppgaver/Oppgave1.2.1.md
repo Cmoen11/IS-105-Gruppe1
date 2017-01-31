@@ -37,7 +37,7 @@
 </tbody>
 </table>
 <p>S&aring; for &aring; regne ut dette legger vi sammen verdien for 1 bitene.<br />128 + 32 + 8 + 2 + 1 = 171</p>
-<p><br />N&aring; vi skal regne fra desimal til bin&aelig;rt tall som i oppgaven, g&aring;r vi motsatt vei.<br />Dvs at vi begynner med det h&oslash;yest mulig tallet i rekken&nbsp;<br />S&aring; ser vi p&aring; tabellen over, blir 1 = 1<br />Tallet 2 f&aring;r verdien 10<br />Tallet 5, har b&aring;de verdien 4 og 1, og blir derfor 101 (Vi teller fra det h&oslash;yeste tallet)<br /><strong>(1)&nbsp;</strong>1 = 1 (1bit)<br /><strong>(2)</strong>&nbsp;2 = 10 (2bit)<strong><br />(3)</strong>&nbsp;5 = 101 (3bit)<strong>&nbsp;<br />(4)</strong>&nbsp;8 = 1000 (4bit)<strong>&nbsp;<br />(5)</strong>&nbsp;16 = 10000 (5bit)<strong>&nbsp;<br />(6)&nbsp;</strong>256 = 101000000000 (12bit)</p>
+<p><br />N&aring; vi skal regne fra desimal til bin&aelig;rt tall som i oppgaven, g&aring;r vi motsatt vei.<br />Dvs at vi begynner med det h&oslash;yest mulig tallet i rekken&nbsp;<br />S&aring; ser vi p&aring; tabellen over, blir 1 = 1<br />Tallet 2 f&aring;r verdien 10<br />Tallet 5, har b&aring;de verdien 4 og 1, og blir derfor 101 (Vi teller fra det h&oslash;yeste tallet)<br /><strong>(1)&nbsp;</strong>1 = 1 (1bit)<br /><strong>(2)</strong>&nbsp;2 = 10 (2bit)<strong><br />(3)</strong>&nbsp;5 = 101 (3bit)<strong>&nbsp;<br />(4)</strong>&nbsp;8 = 1000 (4bit)<strong>&nbsp;<br />(5)</strong>&nbsp;16 = 10000 (5bit)<strong>&nbsp;<br />(6)&nbsp;</strong>256 = 100000000 (9bit)</p>
 <table style="height: 62px;" border="1" width="417">
 <tbody>
 <tr>
@@ -56,7 +56,7 @@
 <td style="text-align: center;">&nbsp;101</td>
 <td style="text-align: center;">&nbsp;1000</td>
 <td style="text-align: center;">10000&nbsp;</td>
-<td style="text-align: center;">&nbsp;101000000000</td>
+<td style="text-align: center;">100000000</td>
 </tr>
 </tbody>
 </table>
