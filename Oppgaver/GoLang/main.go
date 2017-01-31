@@ -7,8 +7,8 @@ import (
 func main() {
 	fmt.Println("Hello, playground")
 	// Kalle public Oppgave i Log.go i samme mappe:
-		Oppgave()
+  Oppgave()
 	// Log under ./log mappen:
-	//log.Oppgave()
-	
+	log.Oppgave()
+
 }
