@@ -1,5 +1,5 @@
 package log
-
+// Denne har package log
 import (
 	"fmt")
 

@@ -1,3 +1,5 @@
+// Kjør filen ved "go run main.go log.go
+// eller bygg filen "go build ..."
 package main
 
 import (
