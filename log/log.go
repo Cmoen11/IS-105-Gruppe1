@@ -5,7 +5,7 @@ import (
 	"math"
 )
 
-func main() {
+func Utregning() {
 	fmt.Println(math.Log2(2))
 	fmt.Println(math.Log2(8 / 4))
 	fmt.Println(math.Log2(8 / 5))
