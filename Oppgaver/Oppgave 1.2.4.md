@@ -21,4 +21,4 @@
    Hvis man har bruk for denne utregningen, er det hensiktsmessig &aring; ha filen i sitt repository slik at man enkelt kan gj&oslash;re utregninger senere ved &aring; kalle p&aring; metoden.</p>
 <p><strong>6) Hva skille pakke log, fra andre pakker i go?<br /><br /></strong>Hver pakke har forskjellige metoder som utf&oslash;rer forskjellige funksjoner.</p>
 <p>I dette tilfellet importeres log lokalt, mens fmt er en del av standardbibloteket, og metoder finnes i oversikten</p>
-<p>&nbsp;</p>
+<p>&nbsp;</p> 
