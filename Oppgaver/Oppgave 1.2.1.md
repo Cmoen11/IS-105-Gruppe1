@@ -1,4 +1,4 @@
-<h1># 1.2.1 Bin&aelig;re tall</h1>
+<h1># Oppgave 1.2.1</h1><p>
 <p><strong>Konvertering av desimaltall til 2-tallsystemet (bin&aelig;rt tallsystem):</strong></p>
 <p>Her skal vi regne ut desimaltall til bin&aelig;re tall, for &aring; forst&aring; hvordan datamaskinen leser disse tallene.<br />Grunnen til at datamaskiner bruker bin&aelig;re tall henger sammen med hvordan digitale kretser er bygd opp (f.eks OG, NOG, NELLER-kretser) med logiske porter. Bin&aelig;re tall blir derfor tolket som 1-Sann , 0-Usann.<br /><br />For &aring; telle bin&aelig;re tall leses disse ,"Arabisk" , fra h&oslash;yre til venstre. Og imotsetning til titallssystemet, blir bin&aelig;re tall hverdier to ganger s&aring; h&oslash;ye for hver siffer plassering til venstre.</p>
 <p>Eksempel:&nbsp;</p>

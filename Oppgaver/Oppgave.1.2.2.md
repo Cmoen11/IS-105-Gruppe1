@@ -1,3 +1,4 @@
+<h1># Oppgave 1.2.2</h1><p>
 <p><strong>Informasjonsmengde Flere personer pr&oslash;ver &aring; gjette et tresifret (3-bit) bin&aelig;rt tall. </strong></p>
 <p><strong>(1) Lise har f&aring;tt vite / l&aelig;rer at tallet er et oddetall.</strong><br /><strong>(2) Per har f&aring;tt vite at tallet er IKKE et multiplum av 3 (dvs. ikke 0, 3, 6). </strong><br /><strong>(3) Oskar har f&aring;tt vite at tallet inneholder n&oslash;yaktig 2 enere. </strong><br /><strong>(4) Louise har f&aring;tt vite alt det Lise, Per og Oskar vet.</strong></p>
 <p>3 bit bin&aelig;re tall gir mulighetene:</p>

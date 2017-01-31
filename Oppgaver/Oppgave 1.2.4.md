@@ -1,3 +1,4 @@
+<h1># Oppgave 1.2.4</h1><p>
 <p>&nbsp;<strong>1) Hvilken fordeler og ulemper har en git-flow-modell med en hovedrepository?<br /><br /></strong>Fordelen med en hovedrepo er at man kan kopiere denne og jobbe separat p&aring; forskjellige elementer av koden for s&aring; &aring; sammenligne / legge til endringer i hovedrepo n&aring;r endringene er klare. Ved &aring; bruke en "public" repo er det ogs&aring; enkelt &aring; dele koden, f&aring; tilbakemeldinger og se endringer.</p>
 <p>&nbsp;</p>
 <p>Ulempen kan v&aelig;re at andre kan slette n&oslash;dvendige filer / endre hovedrepo istedenfor test brancher, man kan v&aelig;re uheldig &aring; dele passord og essensiel data mm.<br />Andre ulemper kan v&aelig;re at man lager mange repo, har lite dokumentasjon og ender opp med bare rot.</p>
