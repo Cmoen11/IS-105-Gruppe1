@@ -1,0 +1,40 @@
+Hvor mange prosesser som kjører på din datamaskin?
+169 prosesser kjører 13.02.2017 21.05
+
+Hvor mange prosesser som kjører på din virtuelle server i nettskyen?
+1
+
+Kan man gi et nøyaktig antall? Begrunn.
+Man kan ikke gi et nøyaktig antall fordi antall prosessor som kjører vil endres ut 
+ifra hvilke program som er installert på pcen og pcen setter i gang prosesser etter 
+hvert som den trenger det.
+
+Hvor mange av prosessene som “kjører”?
+
+Hvis de ikke kjører, hvilke tilstander befinner de seg da?
+Deaktviert
+
+Hva er maskinvarespesifikasjon til din datamaskin (noter prosessortype,
+prosessorarkitektur, klokkefrekvens, informasjon om primært minne, størrelse på
+cache (både L1, L2 og L3 er ønskelig))?
+Acer Aspire S5-371
+Intel Core i5 7500U, Kaby Lake-U/Y -- 2 cores, 4 threads
+Klokkefrekvens: 2,5 GHz
+8,00 GB RAM
+64-biters operativsystem, x64-basert prosessor
+L1 Data Cache Size 2 x 32 KBytes
+L1 Instructions Cache Size 2 x 32 KBytes
+L2 Unified Cache Size 2 x 256 KBytes
+L3 Unified Cache Size 3072 KBytes
+
+Hvor mange CPU-“cores” har du tilgjengelig på din maskin? Noter.
+2
+
+Hvor mange CPU-”cores” har du tilgjengelig på din virtuelle server? Noter.
+1
+
+Finn ut hvilken prosess i ditt system bruker mest minne. Beskrive denne prosessen
+kort.
+Google Chrome. Sikkert fordi jeg har mange faner oppe samtidig.
+Går inn på taskmanager, prosesser, trykker på minne og får opp den prosessen 
+som tar mest minne.
