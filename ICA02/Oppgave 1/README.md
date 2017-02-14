@@ -64,7 +64,7 @@ Min datamaskin bruker mest minne på IntelliJ da jeg programmerer og kjører vir
 <td>Erlend W</td>
 <td>Windows 10 pro</td>
 <td>Intel i7 4770K, 3.5GHz</td>
-<td>16GB 1333 MHz</td>
+<td>16GB 1600 MHz</td>
 <td>Asus Z87 PRO Socket 1150</td>
 <td>Nvidia 1070 MSI</td>
 </tr>
