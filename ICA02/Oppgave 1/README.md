@@ -85,12 +85,12 @@ Min datamaskin bruker mest minne på IntelliJ da jeg programmerer og kjører vir
 <td>Intel HD Graphics 620</td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td>Brynjar B</td>
+<td>OS X 10.11.6 El Capitan</td>
+<td>Intel i7 2.2GHz I7-5650U</td>
+<td>8GB 1600MHz DDR3</td>
+<td>A1466</td>
+<td>Intel HD Graphics 6000 1536 MB</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
