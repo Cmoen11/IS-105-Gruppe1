@@ -88,7 +88,7 @@ var sum_tests_float64 = []struct {
 func TestSumFloat64(t *testing.T) {
   for _, v := range sum_tests_float64 {
     if val := SumFloat64(v.n1, v.n2); val != v.expected {
-      t.Errorf("Sum(%d, %d) returned %d, expected %d", v.n1, v.n2, val, v.expected)
+      t.Errorf("Sum(%g, %g) returned %g, expected %g", v.n1, v.n2, val, v.expected)
     }
   }
 }
