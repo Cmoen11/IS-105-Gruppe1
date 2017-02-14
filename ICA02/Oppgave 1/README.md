@@ -101,12 +101,12 @@ Min datamaskin bruker mest minne på IntelliJ da jeg programmerer og kjører vir
 <td>Radeon R9 290x GIGABYTE</td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td>Daniel P</td>
+<td>Mac OS X 10.12 Sierra</td>
+<td>Intel Core i7-2640M 2,8 GHz Sandy Bridge</td>
+<td>16GB RAM</td>
+<td>A1278</td>
+<td>Intel HD Graphics 3000</td>
 </tr>
 <tr>
 <td>Mathias E</td>
