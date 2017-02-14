@@ -10,4 +10,6 @@ func main() {
 	fmt.Println("Helle Trygsland")
 	fmt.Println("Adrian Jensen")
 	fmt.Println("Daniel Pettersen")
+	fmt.Println("Eirik Andre Stålesen")
+	
 }
