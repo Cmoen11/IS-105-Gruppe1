@@ -69,12 +69,12 @@ Min datamaskin bruker mest minne på IntelliJ da jeg programmerer og kjører vir
 <td>Nvidia 1070 MSI</td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td>Eirik S</td>
+<td>Windows 7 home premium</td>
+<td>Intel core i7-3610QM, 2.30 GHz</td>
+<td>8 GB 798 MHz</td>
+<td>ASUSTeK K55VM (Socket 0)</td>
+<td>NVIDIA GeForce GT 630M</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
