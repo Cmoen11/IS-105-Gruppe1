@@ -14,7 +14,7 @@ Test som produserer feil:
 var test_int32 = []struct {
 	// Gir feil da det er int8
 	n1       int32
-	n2       int32
+	n2       int8
 	expected int32
 }{
 	{1, 2, 3},
