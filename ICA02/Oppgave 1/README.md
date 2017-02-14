@@ -109,12 +109,12 @@ Min datamaskin bruker mest minne på IntelliJ da jeg programmerer og kjører vir
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td>Mathias E</td>
+<td>Windows 10 Home 64bit</td>
+<td>Intel i7-3630QM, 2.4GHz</td>
+<td>8GB 798MHz</td>
+<td>Micro-Star International Co. Ltd. MS-16GA (SOCKET 0)</td>
+<td>Nvidia GTX 660M</td>
 </tr>
 </tbody>
 </table>
