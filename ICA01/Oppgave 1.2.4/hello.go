@@ -9,4 +9,5 @@ func main() {
 	fmt.Println("Erlend Wiklem")
 	fmt.Println("Helle Trygsland")
 	fmt.Println("Adrian Jensen")
+	fmt.Println("Daniel Pettersen")
 }
