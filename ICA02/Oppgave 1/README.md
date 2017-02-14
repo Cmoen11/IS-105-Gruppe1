@@ -79,7 +79,7 @@ Min datamaskin bruker mest minne på IntelliJ da jeg programmerer og kjører vir
 <tr>
 <td>Helle T</td>
 <td>Windows 10 Home 64-bit</td>
-<td>Inter Core i5 7500U, 2,50GHz Kaby Lake</td>
+<td>Intel Core i5 7500U, 2,50GHz Kaby Lake</td>
 <td>8 GB 798 MHz</td>
 <td>Acer Minicooper_SK (U3E1) </td>
 <td>Intel HD Graphics 620</td>
@@ -93,11 +93,11 @@ Min datamaskin bruker mest minne på IntelliJ da jeg programmerer og kjører vir
 <td>Intel HD Graphics 6000 1536 MB</td>
 </tr>
 <tr>
-<td>Windows 10 pro</td>
-<td>Intel i7 4790k, 4.6GHz</td>
-<td>8GB 1600 MHz</td>
-<td>Asus Z97A</td>
-<td>Radeon R9 290x GIGABYTE</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
 <td>&nbsp;</td>
 </tr>
 <tr>
